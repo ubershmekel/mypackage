@@ -1,0 +1,5 @@
+*.zip
+*.tar
+*.pyc
+*.egg-info
+*.egg

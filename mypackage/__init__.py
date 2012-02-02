@@ -10,5 +10,7 @@ If you don't want to explicitly expose everything you can use:
 
 """
 
+VERSION = '1.0'
+
 from mypackage import a_function_of_mine
 from mypackage import MyClass
